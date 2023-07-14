@@ -1,0 +1,204 @@
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+#write {
+    color: white;
+    margin-top: 30px;
+}
+#description {
+    color: white;
+}
+.clour {
+    color: white;
+}
+p{
+    margin:auto;
+    text-align: center;
+    margin-top: 10px;
+}
+body {
+    
+    background-image: url('1122.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.matn {
+    text-align: left;
+    margin-left: 350px;
+    font-size:large;
+    margin-top: 7px;
+    color: white;
+    gap: 500px;
+    
+}
+#name {
+    width: 640px;
+    height: 35px;
+    border-radius:5px;
+    border-radius:blue;
+    margin-left: 0px;
+}
+#address {
+    text-align: left;
+    margin-left:0px;
+    font-size:large;
+    margin-top: 7px;
+    color: white;
+    gap: 6px;
+    
+}
+#email {
+    width: 640px;
+    height: 35px;
+    border-radius:5px;
+    border-radius:blue;
+    margin-left: 0px;
+    
+}
+#number {
+    width: 640px;
+    height: 35px;
+    border-radius:5px;
+    border-radius:blue;
+    margin-left: 0px;
+}
+#number1 {
+    text-align: left;
+    margin-left: 0px;
+    font-size:large;
+    margin-top: 7px;
+    color: white;
+    
+}
+#number-label {
+    text-align: left;
+    margin-left: 0px;
+    font-size:large;
+    color: white;
+    margin-bottom: 80px;
+    
+}
+#sel {
+    width: 640px;
+    height: 35px;
+    border-radius:5px;
+    border-radius:blue;
+    margin-left: 0px;
+}
+#email-label {
+    text-align: left;
+    margin-left: 0px;
+    font-size:large;
+    color: white;
+    margin-bottom: 80px; 
+}
+#rad {
+    margin-left: -270px;
+    color: white;
+}
+#name-label {
+    text-align: left;
+    margin-left: 0px;
+    font-size:large;
+    color: white;
+     
+}
+#dropdown {
+    width: 640px;
+    height: 35px;
+    border-radius:5px;
+    border-radius:blue;
+    margin-left: 0px;
+}
+#radio {
+    color: white;
+    
+    margin-top: 30px;
+    
+
+}
+#survey-form {
+    color: white;
+    margin-left:350px;
+    
+    
+}
+
+#man {
+    width: 640px;
+    height: 35px;
+   
+}
+
+#list-choose {
+    margin-left:-330px ;
+}
+
+#down {
+    margin-left: -330px;
+}
+
+#survey-form2 {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#survey-form3 {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#survey-form4 {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#survey-form5 {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#survey-form6 {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#survey-form7 {
+    margin-left: 350px;
+    margin-top: 30px;
+    color: white;
+}
+
+#space {
+    width: 640px;
+    margin-top: 8px;
+    height: 170px;
+}
+
+#submit {
+
+    width: 650px;
+    margin-top: 30px;
+   margin-bottom: 30px;
+   height: 50px;
+   background-color:darkturquoise;
+   font-size: 20px;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+#comments-label {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#label1 {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
